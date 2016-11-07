@@ -1,0 +1,22 @@
+{
+  "name": "Rollo Tuer E-schlaf",
+  "device_id": "rollo_tuer_e-schlaf",
+  "wifi": {
+    "ssid": "SSSSS",
+    "password": "PPPPPPP"
+  },
+  "mqtt": {
+    "host": "host.net",
+    "port": 1883,
+    "base_topic": "device/",
+    "auth": true,
+    "username": "UUUUUUU",
+    "password": "PPPPPPP"
+  },
+  "ota": {
+    "enabled": true
+  },
+  "settings": {
+    "percentage": 55
+  }
+}
